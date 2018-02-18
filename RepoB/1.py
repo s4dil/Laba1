@@ -15,3 +15,4 @@ for i in range(1,len(s)):
     except:
         pass
 print("Преобразованный массив: ",s)
+a + b = Ничего
